@@ -1,0 +1,16 @@
+-- Three way to write CSS.
+   1. inline CSS - we can write CSS with stlye attribute. 
+   2. internal CSS - we can start internal CSS by using <style> Tag</style>
+   3. External CSS - create a separate file with .css extension.
+HTML - Hypertext Markup Language
+CSS - Cascading Style Sheet (Cascading - it provide a set of rules and propertis that defined how HTML
+element should be displayed on webpage.)
+
+-- font size of h1 tag - 32px.
+
+-- Three Selector
+    - self selector/ tag
+    - class - (denoted as . / class should be duplicate)
+    - ID - (denoted as # / this should be unique)
+
+- Prority of CSS Execution - Inline > Internal > External
